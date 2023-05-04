@@ -1,4 +1,4 @@
-# A portal to access all solved assignments of Computer Engineering Sem VI 
+#  access all solved assignments of Computer Engineering Sem VI 
 
 
 
