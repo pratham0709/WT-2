@@ -1,4 +1,4 @@
-#  access all solved assignments of Computer Engineering Sem VI 
+#  Access all solved assignments of Computer Engineering Sem VI 
 
 
 
